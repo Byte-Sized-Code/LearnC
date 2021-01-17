@@ -1,16 +1,16 @@
-### 1D-Arrays
+## 1D-Arrays
 
 An array is a sequential collection of elements of the same data type and stores data elements in a continuous memory location. The elements of an array can be accessed by using index. The index of an array of size N ranges from 0 to N-1. Each element can be accessed by using arr[index].
 
 In C, one needs to declare an array and then initialize the array.  
 
-## Array declaration
+### Array declaration
 One needs to provide the type of elements and the size of the array. Here is the syntax:  
 ```
 type arr[size];
 ```
 
-## Array initialization
+### Array initialization
 After declaring the array, it needs to be initialized. Initialization can be either at the time of declaration or after that.  
 The sample format to initialize and declare array together is shown below:  
 ```
